@@ -1,0 +1,193 @@
+body {
+  background-color: white;
+  font-family: "Calibri", Times, serif;
+}
+
+/* CONFIGURAÇÃO DO CONTAINER */
+#container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+
+/* CONFIGURAÇÃO DO TOPO */
+#topo-site {
+  width: 100%;
+  height: auto;
+  float: left;
+  background-color: #206CA6;
+}
+
+/* CONFIGURAÇÃO DO LOGO DO SITE */
+#logo {
+  width: 50%;
+  height: 20%;
+  float: left;
+  margin-left: 3%;
+  margin-top: 3%;
+}
+
+/* CONFIGURAÇÃO DA REDE SOCIAL */
+#rede-sociais {
+  width: 10%;
+  height: 20%;
+  float: right;
+  margin-right: 3%;
+  margin-top: 5%;
+}
+
+/* CONFIGURAÇÃO DO MENU DO SITE */
+.menu_simple {
+  width: 100%;
+  height: 1%;
+  padding-left: 40%;
+  margin-top: 9%;
+  background-color: #022A4F;
+  padding: 3.5%;
+  
+}
+
+.menu_simple ul {
+  margin: 0%;
+  padding: 0%;
+  
+}
+
+.menu_simple ul li {
+  display: inline;
+}
+
+.menu_simple ul li a {
+ 
+  text-decoration: none;
+  color: white;
+  padding: 1%;
+  padding-left: 5%;
+  background-color: #022A4F;
+}
+
+.menu_simple ul li a:visited {
+  color: white;
+}
+
+.menu_simple ul li a:hover {
+  color: white;
+  background-color: #206CA6;
+}
+
+/* CONFIGURAÇÃO DO SLIDE DO SITE */
+#slide {
+  margin-top: 10px;
+  float: left;
+}
+
+/* CONFIGURAÇÃO DA CAIXA DE CONTEÚDO */
+.caixa-conteudo {
+  width: 25%;
+  height: auto;
+  float: left;
+  margin-left: 17px;
+  padding-left: 7%;
+  margin-top: 1%;
+}
+
+.caixa-conteudo h3 {
+  color: white;
+  margin-left: 50px;
+}
+
+.caixa-conteudo ul {
+  list-style: none;
+  float: left;
+  color: white;
+  margin-top: -1%;
+  margin-left: 5%;
+}
+
+.caixa-conteudo ul li {
+  margin-top: 10%;
+}
+
+.caixa-conteudo li a {
+  text-decoration: none;
+  margin-right: 10%;
+  color: white;
+}
+
+/* CONFIGURAÇÃO DO RODAPÉ DO SITE */
+#rodape-site {
+  width: 100%;
+  height: auto;
+  float: left;
+  background-color: #022A4F;
+  margin-top: 1%;
+}
+
+#autor-site {
+  width: 100%;
+  height: 40px;
+  background-color: #206CA6;
+  float: left;
+  text-align: center;
+  padding-top: 10px;
+  color: white;
+}
+
+/* CONFIGURAÇÃO DA DIV SOBRE */
+#sobre {
+  width: 100%;
+  height: auto;
+  background-color: white;
+  float: left;
+}
+
+#foto-sobre {
+  width: 30%;
+  height: auto;
+  float: left;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+#texto-sobre {
+  width: 50%;
+  height: auto;
+  float: left;
+  margin-left: 15%;
+  margin-top: 5%;
+}
+
+.menu_simples {
+  width: 100%;
+  height: 16%;
+  margin-top: 9%;
+  background-color: #022A4F;
+}
+
+.menu_simples ul {
+  margin: 10%;
+  padding: 5%;
+}
+
+.menu_simples ul li {
+  display: inline;
+}
+
+.menu_simples ul li a {
+  text-decoration: none;
+  color: white;
+  padding: 2% 1%;
+  padding-left: 5%;
+  padding-top: -1%;
+  background-color: #022A4F;
+}
+
+.menu_simples ul li a:visited {
+  color: white;
+}
+
+.menu_simples ul li a:hover {
+  color: white;
+  background-color: #206CA6;
+}
